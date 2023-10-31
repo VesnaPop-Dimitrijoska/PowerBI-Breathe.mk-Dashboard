@@ -30,3 +30,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNmFhZThkYWEtMTllYS00ZjBiLThkMzEtYmVhOTYzM
 
 - Vesna Pop-Dimitrijoska
 - Vasko Cubalevski
+
+---
+# License
+MIT License
