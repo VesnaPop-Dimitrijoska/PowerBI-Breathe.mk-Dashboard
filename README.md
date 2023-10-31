@@ -19,10 +19,11 @@ In this phase of the project we worked with an artificially generated dataset.
 #
 ---
 # Preview of the Dashboard:
-https://app.powerbi.com/view?r=eyJrIjoiNmFhZThkYWEtMTllYS00ZjBiLThkMzEtYmVhOTYzMDJiZTBmIiwidCI6IjEzMjViNTdhLTFjZmItNGFhZC04YTZkLTNkYmRiNWJjYjQyZCIsImMiOjl9
+https://app.powerbi.com/view?r=eyJrIjoiNTUxZDRjNTAtYWRkYS00Mzc5LWFhZjMtMmJmZGM5YjE3NWNkIiwidCI6IjEzMjViNTdhLTFjZmItNGFhZC04YTZkLTNkYmRiNWJjYjQyZCIsImMiOjl9
+    
+![image](https://github.com/VesnaPop-Dimitrijoska/PowerBI-Breathe.mk-Dashboard/assets/144008804/72fb850f-ac30-4a46-afe2-6b5491a9f838)
+![image](https://github.com/VesnaPop-Dimitrijoska/PowerBI-Breathe.mk-Dashboard/assets/144008804/13a09c7f-3f92-433b-adcb-07202b7451ae)
 
-![image](https://github.com/VesnaPop-Dimitrijoska/PowerBI-Breathe.mk-Dashboard/assets/144008804/c2d48ff9-fd70-4b56-b02a-7358ef7b1e60)
-![image](https://github.com/VesnaPop-Dimitrijoska/PowerBI-Breathe.mk-Dashboard/assets/144008804/aee228bd-d8ee-46f9-938b-dc53d855883d)
 
 ---
 #
